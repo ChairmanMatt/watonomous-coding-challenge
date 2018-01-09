@@ -1,3 +1,5 @@
-Program: 
-struct usa stores a string which is ASCII art representing the US flag
-class runner prints this
+#Program Description: 
+
+struct usa stores a string containing ASCII art representing the US flag
+
+class runner prints the structs
